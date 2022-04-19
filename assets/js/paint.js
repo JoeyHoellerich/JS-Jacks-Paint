@@ -1,7 +1,7 @@
 // create array of paint Colors
-let paintColors = ["Lime Green", "Medium Brown", "Royal Blue", "Solid Black", "Solid Cyan", "Solid Purple", "Solid Red", "Solid White", "Solid Yellow"];
+let paintColors = ["Lime Green", "Medium Brown", "Royal Blue", "Solid Red", "Solid White", "Solid Black", "Solid Cyan", "Solid Purple", "Solid Yellow"];
 // create array of paint Prices (same index as paint color)
-let paintPrices = ["$14.99", "$11.14", "$22.99", "$4.99", "$8.22", "$11.99", "$13.42", "$21.98", "$14.99"];
+let paintPrices = ["$14.99", "$11.14", "$22.99", "$13.42", "$21.98", "$4.99", "$8.22", "$11.99", "$14.99"];
 
 // function to add event listeners to each image
 function configureListeners() {
